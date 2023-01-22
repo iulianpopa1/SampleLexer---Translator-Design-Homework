@@ -1,2 +1,1 @@
-# TD
- 
+# Sample Lexer - Translator Design Homework
